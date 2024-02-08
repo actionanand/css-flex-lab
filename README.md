@@ -48,4 +48,4 @@ http://127.0.0.1:5173/
   }
 ```
 
-* `flex-basis` is based on the **main axis**. If `flex-direction: row;`, `flex-basis` will be replace the **width** of the element (X - axis). If `flex-direction: column;`, `flex-basis` will be replace the **height** of the element (Y - axis).
+* `flex-basis` is based on the **main axis**. If `flex-direction: row;`, `flex-basis` will be replaced the **width** of the element (X - axis). If `flex-direction: column;`, `flex-basis` will be replace the **height** of the element (Y - axis).
